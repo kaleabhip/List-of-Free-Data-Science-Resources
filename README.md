@@ -6,12 +6,6 @@ This list contains free learning resources for data science, machine learning an
 
 Each entry provides the expected audience for the certain book (beginner, intermediate, or veteran). It may be subjective, but it provides some clue of how difficult the book is.
 
-[Should I include this??]: <>
-[comment]: <> (# How To Contribute)
-[comment]: <> (* Fork)
-[comment]: <> (* Edit, and add your recommendations for beginner, intermediate, or veteran)
-[comment]: <> (* Send a Pull Request)
-
 
 ## Index
 
